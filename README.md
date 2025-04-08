@@ -34,7 +34,7 @@ npx -y @smithery/cli install mcp-linkedin --client claude
 
 ## Sample usage
 
-Using [mcp-client-cli](https://github.com/adhikasp/mcp-client-cli)
+Using [mcp-client-cli](https://github.com/TuliEscobar/mcp-linkedin)
 
 ### Get feed posts
 
